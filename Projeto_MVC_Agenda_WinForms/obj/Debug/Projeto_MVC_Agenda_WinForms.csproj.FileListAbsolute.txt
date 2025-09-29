@@ -1,0 +1,10 @@
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto_MVC_Agenda_WinForms\Projeto_MVC_Agenda_WinForms\bin\Debug\Projeto_MVC_Agenda_WinForms.exe.config
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto_MVC_Agenda_WinForms\Projeto_MVC_Agenda_WinForms\bin\Debug\Projeto_MVC_Agenda_WinForms.exe
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto_MVC_Agenda_WinForms\Projeto_MVC_Agenda_WinForms\bin\Debug\Projeto_MVC_Agenda_WinForms.pdb
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto_MVC_Agenda_WinForms\Projeto_MVC_Agenda_WinForms\obj\Debug\Projeto_MVC_Agenda_WinForms.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto_MVC_Agenda_WinForms\Projeto_MVC_Agenda_WinForms\obj\Debug\Projeto_MVC_Agenda_WinForms.Form1.resources
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto_MVC_Agenda_WinForms\Projeto_MVC_Agenda_WinForms\obj\Debug\Projeto_MVC_Agenda_WinForms.Properties.Resources.resources
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto_MVC_Agenda_WinForms\Projeto_MVC_Agenda_WinForms\obj\Debug\Projeto_MVC_Agenda_WinForms.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto_MVC_Agenda_WinForms\Projeto_MVC_Agenda_WinForms\obj\Debug\Projeto_MVC_Agenda_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto_MVC_Agenda_WinForms\Projeto_MVC_Agenda_WinForms\obj\Debug\Projeto_MVC_Agenda_WinForms.exe
+C:\Users\User\OneDrive\Documentos\faculdade\quarto semestre\Estrutura de Dados 2\Projeto_MVC_Agenda_WinForms\Projeto_MVC_Agenda_WinForms\obj\Debug\Projeto_MVC_Agenda_WinForms.pdb
