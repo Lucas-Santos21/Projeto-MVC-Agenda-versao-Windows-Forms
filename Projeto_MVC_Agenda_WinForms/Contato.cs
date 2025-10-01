@@ -181,5 +181,21 @@ namespace Projeto_MVC_Agenda_WinForms
             return Email == outro.Email;
         }
 
+        public string TelefonesStr
+        {
+            get
+            {
+                return string.Join(", ", Telefones.Select(t => t.Numero));
+            }
+            set
+            {
+                Telefones = value
+                    .Split(',')
+                    .Where(t => !string.IsNullOrWhiteSpace(t))
+                    .Select((t, i) => new Telefone("Celular", t.Trim(), i == 0))
+                    .ToList();
+            }
+        }
+
     }
 }
